@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,800;1,900&display=swap');
+
+.biden {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+
+.biden > * {
+    font-family: "Montserrat", sans-serif;
+    font-size: xxx-large;
+    color: #EEEEEE;
+}
+
+.biden span.inner {
+    font-size: xx-large;
+}
+
+body {
+    background-color: #121212;
+}
