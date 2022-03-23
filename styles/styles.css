@@ -14,6 +14,10 @@
     color: #EEEEEE;
 }
 
+.biden span.inner {
+    font-size: xx-large;
+}
+
 body {
     background-color: #121212;
 }
